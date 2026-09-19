@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/Vinges541/wxl-modern-races",
+  "commit": "752e2148a97d3527625986467c36bb0719ab1289",
+  "license": "GPL-3.0-or-later",
+  "sha256": {
+    "chunks.py": "a62d4d22f64f59b7a86ac71f28adc983433590026861d980ee2a69e8d43258dd",
+    "bundle.py": "b8a94bf5a6d469ddffbd5bbe62012164cdee99ace01f4d471bd1581d1ee40cdb",
+    "resolver.py": "ea6ebd9e0b344ebc7d29d2c1e6982d4278c8ca5103fe99b710a4dd1ee412402b",
+    "skeleton.py": "d5ae3f06463bb480ed4eb8ceb5292d5bfc6ce69ce22c472c2e18ca98a3dc81cc"
+  }
+}

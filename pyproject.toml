@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "wxl-wotlk-hd"
+version = "0.1.0"
+description = "Race, druid, mount and equipment preparation for WotLK 3.3.5a with WarcraftXL"
+requires-python = ">=3.12"
+license = "GPL-3.0-or-later"
+license-files = ["LICENSE", "components/*/THIRD-PARTY-NOTICES.md", "components/equipment/models/*LICENSE"]
+readme = "README.md"
+dependencies = ["Pillow==12.3.0", "numpy==2.5.3"]
+[project.optional-dependencies]
+prepare = ["unicorn==2.1.4"]
+mlx = ["mlx==0.32.2; platform_system == 'Darwin' and platform_machine == 'arm64'"]
+[project.urls]
+Repository = "https://github.com/Vinges541/wxl-wotlk-hd"
+Issues = "https://github.com/Vinges541/wxl-wotlk-hd/issues"
+[project.scripts]
+wxl-races = "wxl_races.cli:main"
+wxl-equipment = "wxl_equipment.cli:main"
+wxl-mounts = "wxl_mounts.cli:main"
+[tool.setuptools.package-dir]
+wxl_races = "components/races/src/wxl_races"
+wxl_equipment = "components/equipment/src/wxl_equipment"
+wxl_mounts = "components/mounts/src/wxl_mounts"
+[tool.setuptools.packages.find]
+where = ["components/races/src", "components/equipment/src", "components/mounts/src"]

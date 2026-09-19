@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "variant": "RealESRNet_x4plus",
+  "runtime": {
+    "name": "mlx",
+    "version": "0.32.2",
+    "port": "https://github.com/xocialize/realesrgan-mlx",
+    "commit": "52c0fc1044277900b995308095a1f3cc484a3581",
+    "license": "BSD-3-Clause"
+  },
+  "weights": {
+    "url": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.1/RealESRNet_x4plus.pth",
+    "sourceSha256": "a820b9bde89a874d7599d545567308ce6c128fc8754a53208eda016d40aa81df",
+    "sha256": "836b122567b5af1904c6b1724ba625528e420ff5ec40f9d47a612839350709f0",
+    "bytes": 66857916,
+    "conversion": "OIHW to OHWI, FP32 retained, tools/convert_weights.py",
+    "license": "BSD-3-Clause"
+  },
+  "status": "selected-direct-rgb-2x-with-runtime-smooth-alpha"
+}

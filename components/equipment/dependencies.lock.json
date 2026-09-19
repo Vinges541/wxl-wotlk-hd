@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "clientBuild": 12340,
+  "runtime": {
+    "mlx": "0.32.2",
+    "mlx-metal": "0.32.2",
+    "numpy": "2.5.3",
+    "Pillow": "12.3.0",
+    "realesrgan-mlx": "0.1.0"
+  },
+  "retail": {
+    "version": "12.1.0.69587",
+    "BuildConfig": "c9fa1a64b0170829cc5c5c98c71025c3"
+  },
+  "exporter": {
+    "version": "0.2.19",
+    "repository": "https://github.com/Kruithne/wow.export"
+  },
+  "stormlib": {
+    "version": "9.30",
+    "source": "wxl-core/deps/stormlib",
+    "coreCommit": "3990e09b5f80e77351d605dcd48d76b68ab2c2bf"
+  },
+  "sourceOnly": true
+}

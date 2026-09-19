@@ -1,0 +1,1681 @@
+{
+  "schemaVersion": 1,
+  "buildConfig": "c9fa1a64b0170829cc5c5c98c71025c3",
+  "selection": "Prefer full new models of the same mount; otherwise include confirmed revisions of its legacy geometry.",
+  "replacements": [
+    {
+      "displayId": 2346,
+      "retailDisplayId": 2346,
+      "fileDataId": 125227,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Felsteed"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 2736,
+      "retailDisplayId": 2736,
+      "fileDataId": 125546,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Gray Ram"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 2784,
+      "retailDisplayId": 2784,
+      "fileDataId": 125546,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Black Ram"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 2785,
+      "retailDisplayId": 2785,
+      "fileDataId": 125546,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Brown Ram"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 2786,
+      "retailDisplayId": 2786,
+      "fileDataId": 125546,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "White Ram"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 2787,
+      "retailDisplayId": 2787,
+      "fileDataId": 125546,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Frost Ram"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 4806,
+      "retailDisplayId": 4806,
+      "fileDataId": 125680,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Emerald Raptor"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 6469,
+      "retailDisplayId": 6469,
+      "fileDataId": 125680,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Mottled Red Raptor"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 6471,
+      "retailDisplayId": 6471,
+      "fileDataId": 125680,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Ivory Raptor"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 6472,
+      "retailDisplayId": 6472,
+      "fileDataId": 125680,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Turquoise Raptor"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 6473,
+      "retailDisplayId": 6473,
+      "fileDataId": 125680,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Violet Raptor"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 6569,
+      "retailDisplayId": 6569,
+      "fileDataId": 124872,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Blue Mechanostrider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 9473,
+      "retailDisplayId": 9473,
+      "fileDataId": 124872,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Red Mechanostrider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 9474,
+      "retailDisplayId": 9474,
+      "fileDataId": 124872,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "White Mechanostrider Mod B"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 9475,
+      "retailDisplayId": 9475,
+      "fileDataId": 124872,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Green Mechanostrider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 9476,
+      "retailDisplayId": 9476,
+      "fileDataId": 124872,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Unpainted Mechanostrider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 10661,
+      "retailDisplayId": 10661,
+      "fileDataId": 124872,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Green Mechanostrider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 10666,
+      "retailDisplayId": 10666,
+      "fileDataId": 124872,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Icy Blue Mechanostrider Mod A"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 11641,
+      "retailDisplayId": 11641,
+      "fileDataId": 1345569,
+      "upgradeKind": "new-model",
+      "retailNames": [
+        "Brown Kodo",
+        "Riding Kodo"
+      ],
+      "reason": "Full replacement mesh for the same mount in the pinned Retail Mount/Spell data."
+    },
+    {
+      "displayId": 12241,
+      "retailDisplayId": 12241,
+      "fileDataId": 1345569,
+      "upgradeKind": "new-model",
+      "retailNames": [
+        "White Kodo"
+      ],
+      "reason": "Full replacement mesh for the same mount in the pinned Retail Mount/Spell data."
+    },
+    {
+      "displayId": 12242,
+      "retailDisplayId": 12242,
+      "fileDataId": 1345569,
+      "upgradeKind": "new-model",
+      "retailNames": [
+        "Teal Kodo"
+      ],
+      "reason": "Full replacement mesh for the same mount in the pinned Retail Mount/Spell data."
+    },
+    {
+      "displayId": 12245,
+      "retailDisplayId": 12245,
+      "fileDataId": 1345569,
+      "upgradeKind": "new-model",
+      "retailNames": [
+        "Green Kodo"
+      ],
+      "reason": "Full replacement mesh for the same mount in the pinned Retail Mount/Spell data."
+    },
+    {
+      "displayId": 12246,
+      "retailDisplayId": 12246,
+      "fileDataId": 1345569,
+      "upgradeKind": "new-model",
+      "retailNames": [
+        "Gray Kodo"
+      ],
+      "reason": "Full replacement mesh for the same mount in the pinned Retail Mount/Spell data."
+    },
+    {
+      "displayId": 14337,
+      "retailDisplayId": 14337,
+      "fileDataId": 125620,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Black War Steed"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14338,
+      "retailDisplayId": 14338,
+      "fileDataId": 125620,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift White Steed"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14339,
+      "retailDisplayId": 14339,
+      "fileDataId": 125649,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Blue Raptor"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14342,
+      "retailDisplayId": 14342,
+      "fileDataId": 125649,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Orange Raptor"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14343,
+      "retailDisplayId": 14343,
+      "fileDataId": 125649,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Purple Raptor"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14344,
+      "retailDisplayId": 14344,
+      "fileDataId": 125649,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Olive Raptor"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14346,
+      "retailDisplayId": 14346,
+      "fileDataId": 125522,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift White Ram"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14347,
+      "retailDisplayId": 14347,
+      "fileDataId": 125522,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Brown Ram"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14372,
+      "retailDisplayId": 14372,
+      "fileDataId": 124880,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Black Battlestrider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14374,
+      "retailDisplayId": 14374,
+      "fileDataId": 124880,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Green Mechanostrider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14375,
+      "retailDisplayId": 14375,
+      "fileDataId": 124880,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Turbostrider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14376,
+      "retailDisplayId": 14376,
+      "fileDataId": 124880,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift White Mechanostrider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14377,
+      "retailDisplayId": 14377,
+      "fileDataId": 124880,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Yellow Mechanostrider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14388,
+      "retailDisplayId": 14388,
+      "fileDataId": 125649,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Black War Raptor"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14576,
+      "retailDisplayId": 14576,
+      "fileDataId": 125522,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Gray Ram"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14577,
+      "retailDisplayId": 14577,
+      "fileDataId": 125522,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Black War Ram"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14582,
+      "retailDisplayId": 14582,
+      "fileDataId": 125620,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Palomino"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14583,
+      "retailDisplayId": 14583,
+      "fileDataId": 125620,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Brown Steed"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 14584,
+      "retailDisplayId": 137711,
+      "fileDataId": 6652727,
+      "upgradeKind": "new-model",
+      "retailNames": [
+        "Charger"
+      ],
+      "reason": "Full replacement mesh for the same mount in the pinned Retail Mount/Spell data."
+    },
+    {
+      "displayId": 14777,
+      "retailDisplayId": 14777,
+      "fileDataId": 125522,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Stormpike Battle Charger"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 15289,
+      "retailDisplayId": 15289,
+      "fileDataId": 125649,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Razzashi Raptor"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 16314,
+      "retailDisplayId": 16314,
+      "fileDataId": 125168,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Nether Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17063,
+      "retailDisplayId": 17063,
+      "fileDataId": 125593,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Brown Elekk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17694,
+      "retailDisplayId": 17694,
+      "fileDataId": 124298,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Ebon Gryphon"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17696,
+      "retailDisplayId": 17696,
+      "fileDataId": 124298,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Snowy Gryphon"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17697,
+      "retailDisplayId": 17697,
+      "fileDataId": 124298,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Golden Gryphon"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17699,
+      "retailDisplayId": 17699,
+      "fileDataId": 125718,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Tawny Wind Rider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17700,
+      "retailDisplayId": 17700,
+      "fileDataId": 125718,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Blue Wind Rider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17701,
+      "retailDisplayId": 17701,
+      "fileDataId": 125718,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Green Wind Rider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17703,
+      "retailDisplayId": 17703,
+      "fileDataId": 124293,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Green Gryphon"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17717,
+      "retailDisplayId": 17717,
+      "fileDataId": 124293,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Purple Gryphon"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17718,
+      "retailDisplayId": 17718,
+      "fileDataId": 124293,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Red Gryphon"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17719,
+      "retailDisplayId": 17719,
+      "fileDataId": 125729,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Red Wind Rider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17720,
+      "retailDisplayId": 17720,
+      "fileDataId": 125729,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Green Wind Rider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17721,
+      "retailDisplayId": 17721,
+      "fileDataId": 125729,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Purple Wind Rider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17722,
+      "retailDisplayId": 17722,
+      "fileDataId": 125729,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Yellow Wind Rider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17759,
+      "retailDisplayId": 17759,
+      "fileDataId": 124293,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Blue Gryphon"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 17890,
+      "retailDisplayId": 17890,
+      "fileDataId": 125644,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Ashes of Al'ar"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 19085,
+      "retailDisplayId": 137710,
+      "fileDataId": 6652727,
+      "upgradeKind": "new-model",
+      "retailNames": [
+        "Thalassian Charger"
+      ],
+      "reason": "Full replacement mesh for the same mount in the pinned Retail Mount/Spell data."
+    },
+    {
+      "displayId": 19303,
+      "retailDisplayId": 19303,
+      "fileDataId": 125699,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Dark War Talbuk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 19375,
+      "retailDisplayId": 19375,
+      "fileDataId": 125699,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Cobalt War Talbuk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 19376,
+      "retailDisplayId": 19376,
+      "fileDataId": 125699,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Tan War Talbuk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 19377,
+      "retailDisplayId": 19377,
+      "fileDataId": 125699,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "White War Talbuk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 19378,
+      "retailDisplayId": 19378,
+      "fileDataId": 125699,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Silver War Talbuk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 19869,
+      "retailDisplayId": 19869,
+      "fileDataId": 125593,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Gray Elekk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 19870,
+      "retailDisplayId": 19870,
+      "fileDataId": 125593,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Purple Elekk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 19871,
+      "retailDisplayId": 19871,
+      "fileDataId": 125595,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Great Blue Elekk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 19872,
+      "retailDisplayId": 19872,
+      "fileDataId": 125595,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Great Purple Elekk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 19873,
+      "retailDisplayId": 19873,
+      "fileDataId": 125595,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Great Green Elekk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 20344,
+      "retailDisplayId": 20344,
+      "fileDataId": 125170,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Merciless Nether Drake",
+        "Swift Nether Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 21073,
+      "retailDisplayId": 21073,
+      "fileDataId": 125698,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Cobalt Riding Talbuk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 21074,
+      "retailDisplayId": 21074,
+      "fileDataId": 125698,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Dark Riding Talbuk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 21075,
+      "retailDisplayId": 21075,
+      "fileDataId": 125698,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Silver Riding Talbuk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 21076,
+      "retailDisplayId": 21076,
+      "fileDataId": 125698,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "White Riding Talbuk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 21077,
+      "retailDisplayId": 21077,
+      "fileDataId": 125698,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Tan Riding Talbuk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 21520,
+      "retailDisplayId": 21520,
+      "fileDataId": 125168,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Onyx Netherwing Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 21521,
+      "retailDisplayId": 21521,
+      "fileDataId": 125168,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Azure Netherwing Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 21522,
+      "retailDisplayId": 21522,
+      "fileDataId": 125168,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Veridian Netherwing Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 21523,
+      "retailDisplayId": 21523,
+      "fileDataId": 125168,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Purple Netherwing Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 21524,
+      "retailDisplayId": 21524,
+      "fileDataId": 125168,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Violet Netherwing Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 21525,
+      "retailDisplayId": 21525,
+      "fileDataId": 125168,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Cobalt Netherwing Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 21939,
+      "retailDisplayId": 21939,
+      "fileDataId": 123130,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Magic Broom"
+      ],
+      "reason": "Seasonal broom appearance: same original/Retail display, revised broom mesh, original fixed textures; no permanent journal entry."
+    },
+    {
+      "displayId": 22265,
+      "retailDisplayId": 22265,
+      "fileDataId": 125546,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Brewfest Ram"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 22350,
+      "retailDisplayId": 22350,
+      "fileDataId": 125522,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Brewfest Ram"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 22464,
+      "retailDisplayId": 22464,
+      "fileDataId": 123058,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Amani War Bear"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 22471,
+      "retailDisplayId": 22471,
+      "fileDataId": 124410,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Argent Hippogryph"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 22473,
+      "retailDisplayId": 22473,
+      "fileDataId": 124410,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Cenarion War Hippogryph"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 22474,
+      "retailDisplayId": 22474,
+      "fileDataId": 124410,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Silver Covenant Hippogryph"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 22620,
+      "retailDisplayId": 22620,
+      "fileDataId": 125170,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Merciless Nether Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 22719,
+      "retailDisplayId": 22719,
+      "fileDataId": 124315,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Flying Machine"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 22720,
+      "retailDisplayId": 22720,
+      "fileDataId": 124313,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Turbo-Charged Flying Machine"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 22724,
+      "retailDisplayId": 22724,
+      "fileDataId": 123987,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Flying Reindeer"
+      ],
+      "reason": "Seasonal flying reindeer appearance: same original/Retail display and texture identity; no permanent journal entry."
+    },
+    {
+      "displayId": 23647,
+      "retailDisplayId": 23647,
+      "fileDataId": 125743,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "X-51 Nether-Rocket X-TREME"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 23656,
+      "retailDisplayId": 23656,
+      "fileDataId": 125743,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "X-51 Nether-Rocket"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 23928,
+      "retailDisplayId": 23928,
+      "fileDataId": 125595,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Black War Elekk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 24693,
+      "retailDisplayId": 24693,
+      "fileDataId": 126560,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Zhevra"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 24725,
+      "retailDisplayId": 24725,
+      "fileDataId": 125170,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Vengeful Nether Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 24745,
+      "retailDisplayId": 24745,
+      "fileDataId": 126560,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Zhevra"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 24758,
+      "retailDisplayId": 24758,
+      "fileDataId": 124711,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Brewfest Riding Kodo"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 25159,
+      "retailDisplayId": 25159,
+      "fileDataId": 124351,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Headless Horseman's Mount"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 25279,
+      "retailDisplayId": 25279,
+      "fileDataId": 123355,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Crimson Deathcharger"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 25280,
+      "retailDisplayId": 25280,
+      "fileDataId": 123355,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Acherus Deathcharger"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 25335,
+      "retailDisplayId": 25335,
+      "fileDataId": 123067,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Big Battle Bear"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 25511,
+      "retailDisplayId": 25511,
+      "fileDataId": 234824,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Deadly Gladiator's Frost Wyrm"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 25593,
+      "retailDisplayId": 25593,
+      "fileDataId": 234824,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Furious Gladiator's Frost Wyrm"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 25831,
+      "retailDisplayId": 25831,
+      "fileDataId": 234564,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Black Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 25832,
+      "retailDisplayId": 25832,
+      "fileDataId": 234564,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Blue Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 25833,
+      "retailDisplayId": 25833,
+      "fileDataId": 234564,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Bronze Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 25835,
+      "retailDisplayId": 25835,
+      "fileDataId": 234564,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Red Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 25836,
+      "retailDisplayId": 25836,
+      "fileDataId": 234564,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Albino Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 25958,
+      "retailDisplayId": 25958,
+      "fileDataId": 234664,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Headless Horseman's Mount (ground)"
+      ],
+      "reason": "Ground variant of the same mount spell 48025; retained original ground-specific model and Retail revision at the same display."
+    },
+    {
+      "displayId": 26691,
+      "retailDisplayId": 26691,
+      "fileDataId": 234656,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Spectral Gryphon"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27237,
+      "retailDisplayId": 27237,
+      "fileDataId": 234720,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Grand Caravan Mammoth",
+        "Traveler's Tundra Mammoth"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27238,
+      "retailDisplayId": 27238,
+      "fileDataId": 234720,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Grand Caravan Mammoth",
+        "Traveler's Tundra Mammoth"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27239,
+      "retailDisplayId": 27239,
+      "fileDataId": 234720,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Grand Ice Mammoth"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27240,
+      "retailDisplayId": 27240,
+      "fileDataId": 234720,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Grand Black War Mammoth"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27241,
+      "retailDisplayId": 27241,
+      "fileDataId": 234720,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Grand Black War Mammoth"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27242,
+      "retailDisplayId": 27242,
+      "fileDataId": 234720,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Grand Ice Mammoth"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27243,
+      "retailDisplayId": 27243,
+      "fileDataId": 234719,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Wooly Mammoth"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27244,
+      "retailDisplayId": 27244,
+      "fileDataId": 234719,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Wooly Mammoth"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27245,
+      "retailDisplayId": 27245,
+      "fileDataId": 234719,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Black War Mammoth"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27246,
+      "retailDisplayId": 27246,
+      "fileDataId": 234719,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Ice Mammoth"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27247,
+      "retailDisplayId": 27247,
+      "fileDataId": 234719,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Black War Mammoth"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27248,
+      "retailDisplayId": 27248,
+      "fileDataId": 234719,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Ice Mammoth"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27507,
+      "retailDisplayId": 27507,
+      "fileDataId": 125170,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Brutal Nether Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27785,
+      "retailDisplayId": 27785,
+      "fileDataId": 234564,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Azure Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27796,
+      "retailDisplayId": 27796,
+      "fileDataId": 234564,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Twilight Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27913,
+      "retailDisplayId": 27913,
+      "fileDataId": 124293,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Armored Snowy Gryphon"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 27914,
+      "retailDisplayId": 27914,
+      "fileDataId": 125729,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Armored Blue Wind Rider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28040,
+      "retailDisplayId": 28040,
+      "fileDataId": 234782,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Black Proto-Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28041,
+      "retailDisplayId": 28041,
+      "fileDataId": 234782,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Blue Proto-Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28042,
+      "retailDisplayId": 28042,
+      "fileDataId": 234782,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Plagued Proto-Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28043,
+      "retailDisplayId": 28043,
+      "fileDataId": 234782,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Violet Proto-Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28044,
+      "retailDisplayId": 28044,
+      "fileDataId": 234782,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Red Proto-Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28045,
+      "retailDisplayId": 28045,
+      "fileDataId": 234782,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Time-Lost Proto-Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28053,
+      "retailDisplayId": 28053,
+      "fileDataId": 234782,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Green Proto-Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28108,
+      "retailDisplayId": 28108,
+      "fileDataId": 234657,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Winged Steed of the Ebon Blade"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28571,
+      "retailDisplayId": 28571,
+      "fileDataId": 124880,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Gnomeregan Mechanostrider"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28606,
+      "retailDisplayId": 28606,
+      "fileDataId": 125595,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Great Red Elekk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28612,
+      "retailDisplayId": 28612,
+      "fileDataId": 125522,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Violet Ram"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28888,
+      "retailDisplayId": 28888,
+      "fileDataId": 126560,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Quel'dorei Steed"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28890,
+      "retailDisplayId": 28890,
+      "fileDataId": 253410,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Mimiron's Head"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28912,
+      "retailDisplayId": 28912,
+      "fileDataId": 125620,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Stormwind Steed"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28953,
+      "retailDisplayId": 28953,
+      "fileDataId": 254849,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Ironbound Proto-Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 28954,
+      "retailDisplayId": 28954,
+      "fileDataId": 254849,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Rusted Proto-Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 29043,
+      "retailDisplayId": 29043,
+      "fileDataId": 125620,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Gray Steed"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 29102,
+      "retailDisplayId": 29102,
+      "fileDataId": 125680,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Venomhide Ravasaur"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 29255,
+      "retailDisplayId": 29255,
+      "fileDataId": 125595,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Exodar Elekk"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 29258,
+      "retailDisplayId": 29258,
+      "fileDataId": 125522,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Ironforge Ram"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 29261,
+      "retailDisplayId": 29261,
+      "fileDataId": 125649,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Darkspear Raptor"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 29284,
+      "retailDisplayId": 29284,
+      "fileDataId": 125620,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Swift Alliance Steed"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 29344,
+      "retailDisplayId": 29344,
+      "fileDataId": 306852,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Magic Rooster"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 29794,
+      "retailDisplayId": 29794,
+      "fileDataId": 234824,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Relentless Gladiator's Frost Wyrm"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 30346,
+      "retailDisplayId": 30346,
+      "fileDataId": 318963,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Onyxian Drake"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 30989,
+      "retailDisplayId": 30989,
+      "fileDataId": 125743,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "X-45 Heartbreaker"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 31007,
+      "retailDisplayId": 31007,
+      "fileDataId": 340846,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Invincible"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 31047,
+      "retailDisplayId": 31047,
+      "fileDataId": 234824,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Wrathful Gladiator's Frost Wyrm"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 31154,
+      "retailDisplayId": 31154,
+      "fileDataId": 346110,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Icebound Frostbrood Vanquisher"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 31156,
+      "retailDisplayId": 31156,
+      "fileDataId": 346110,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Bloodbathed Frostbrood Vanquisher"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 31721,
+      "retailDisplayId": 31721,
+      "fileDataId": 365780,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Wooly White Rhino"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 31803,
+      "retailDisplayId": 31803,
+      "fileDataId": 366703,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Blazing Hippogryph"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 31957,
+      "retailDisplayId": 31957,
+      "fileDataId": 369224,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Celestial Steed (ground)"
+      ],
+      "reason": "Ground variant of the same mount spell 75614; retained original nonflying-specific model and Retail revision at the same display."
+    },
+    {
+      "displayId": 31958,
+      "retailDisplayId": 31958,
+      "fileDataId": 369213,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "Celestial Steed"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    },
+    {
+      "displayId": 31992,
+      "retailDisplayId": 31992,
+      "fileDataId": 368765,
+      "upgradeKind": "geometry-revision",
+      "retailNames": [
+        "X-53 Touring Rocket"
+      ],
+      "reason": "Same Mount/Spell identity; updated drawn primary mesh, excluding mere storage order and LOD changes."
+    }
+  ]
+}

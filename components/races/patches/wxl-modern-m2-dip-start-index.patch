@@ -1,0 +1,13 @@
+--- a/src/render/M2Draw.cpp
++++ b/src/render/M2Draw.cpp
+@@ -270,4 +270,9 @@
+-        const unsigned drawStartIndex = ExpandM2StartIndex(si);
++        // With pinned wxl-core v1.1.245, hkDeviceDraw already widens the M2
++        // section index before native GxDeviceDraw adds the bound IB offset.
++        // Re-expanding here drops that offset when it is a multiple of 65536
++        // indices. Preserve the final StartIndex for both the draw and event.
++        // Requires core's native-index hook; not a standalone old-core fix.
++        const unsigned drawStartIndex = si;
+         long r = g_origDIP(dev, pt, bv, mi, nv, drawStartIndex, pc);
+         if (g_curModel && !g_inM2Emit)
+         {

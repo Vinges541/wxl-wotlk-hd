@@ -1,0 +1,9 @@
+include README.md LICENSE AGENTS.md bootstrap.py hd.py
+recursive-include docs *.md
+recursive-include tools *.py
+recursive-include components *.py *.md *.json *.toml *.c *.h *.cjs *.patch *.txt LICENSE MANIFEST.in
+global-exclude *.pyc
+prune .venv
+prune _local
+prune build
+prune dist

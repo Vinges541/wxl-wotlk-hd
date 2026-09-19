@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "wxl-equipment-textures"
+version = "0.2.0"
+description = "Local MLX texture restoration and guarded BLP packaging for WarcraftXL"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["Pillow==12.3.0", "numpy==2.5.3"]
+license = "GPL-3.0-or-later"
+license-files = ["LICENSE", "THIRD-PARTY-NOTICES.md", "models/Real-ESRGAN-LICENSE", "models/StormLib-LICENSE"]
+[project.urls]
+Repository = "https://github.com/Vinges541/wxl-equipment-textures"
+Issues = "https://github.com/Vinges541/wxl-equipment-textures/issues"
+[project.optional-dependencies]
+mlx = ["mlx==0.32.2"]
+parity = ["torch==2.14.0"]
+
+[project.scripts]
+wxl-equipment = "wxl_equipment.cli:main"
+[tool.setuptools.packages.find]
+where = ["src"]

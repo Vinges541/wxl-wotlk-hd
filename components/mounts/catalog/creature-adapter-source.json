@@ -1,0 +1,53 @@
+{
+  "license": "GPL-3.0-or-later",
+  "sourceState": "Committed source snapshot; per-file hashes identify the adapted definitions.",
+  "files": [
+    {
+      "project": "wxl-modern-races",
+      "source": "src/wxl_races/druids.py",
+      "sourceSha256": "845cd0d29cdf0acb4258aec95720d60ce4d87b09a9a1360f8365334eb5bf7837",
+      "definitions": [
+        "bind_textures",
+        "select_sections",
+        "validate_geometry",
+        "DBC"
+      ]
+    },
+    {
+      "project": "wxl-modern-races",
+      "source": "tools/pack_mpq.py",
+      "sourceSha256": "7253d019aca9eb90a324a273374ea740aad14e6a4a3269afb7b0c2a1735bb896",
+      "definitions": [
+        "sha",
+        "digest",
+        "asset_name",
+        "check_names",
+        "inventory",
+        "read_va",
+        "CreateInfo",
+        "Storm"
+      ]
+    },
+    {
+      "project": "wxl-modern-races",
+      "source": "tools/patch_wow.py",
+      "sourceSha256": "f2552cd7671a8ce24ad9d7e1aad40d04cb4e3c3c224303ee31dd0b30ac12a30c",
+      "definitions": [
+        "PatchError",
+        "Section",
+        "Pe32"
+      ]
+    },
+    {
+      "project": "wxl-modern-races",
+      "source": "tools/check_appearance_redirect.py",
+      "sourceSha256": "adb27372cc4fc2bb8c5fb26c700ec6c8888c81a1a02878168e660922dad04bcf"
+    },
+    {
+      "project": "wxl-modern-races",
+      "source": "runtime/appearance_redirect.c",
+      "sourceSha256": "9063cecac9f8a38f35e806adaafb4c1cc70e768de6a0ce50cb1a9e8219259ae0"
+    }
+  ],
+  "sourceCommit": "4981ae97a003b770c4e5801e3dda2c32ac81c907"
+}

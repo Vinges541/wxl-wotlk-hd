@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "variant": "realesr-general-x4v3",
+  "runtime": {
+    "name": "mlx",
+    "version": "0.32.2",
+    "port": "https://github.com/xocialize/realesrgan-mlx",
+    "commit": "52c0fc1044277900b995308095a1f3cc484a3581",
+    "license": "BSD-3-Clause"
+  },
+  "weights": {
+    "url": "https://huggingface.co/mlx-community/Real-ESRGAN-general-x4v3/resolve/e9a382fa779f227abf65ad49d4e5b90c1202d683/model.safetensors",
+    "revision": "e9a382fa779f227abf65ad49d4e5b90c1202d683",
+    "sha256": "86f4714b7420203457f2b70a24ee52640098acb2b3fc4ceb5eab120de96b4265",
+    "bytes": 2434666,
+    "license": "BSD-3-Clause",
+    "modelCard": "https://huggingface.co/mlx-community/Real-ESRGAN-general-x4v3/blob/e9a382fa779f227abf65ad49d4e5b90c1202d683/README.md"
+  },
+  "status": "candidate-not-selected"
+}

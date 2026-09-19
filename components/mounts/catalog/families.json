@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Search vocabulary only. No entry authorizes or proves a replacement.",
+  "families": [
+    {"id": "kodo", "legacyPatterns": ["creature/kodobeast/*.m2"], "retailPatterns": ["creature/kodobeast2mount/*.m2", "creature/kodobeasttame/*.m2", "creature/kodobeastpack/*.m2"]},
+    {"id": "saber", "legacyPatterns": ["creature/frostsabre/*.m2"], "retailPatterns": ["creature/nightsaber2mount/*.m2", "creature/warnightsabermount/*.m2"]},
+    {"id": "gryphon", "legacyPatterns": ["creature/gryphon/*.m2"], "retailPatterns": ["creature/elitegryphon/*.m2", "creature/30thgryphonmountclassic/*.m2"]},
+    {"id": "wyvern", "legacyPatterns": ["creature/wyvern/*.m2", "creature/ridingwyvern*/*.m2"], "retailPatterns": ["creature/elitewyvern/*.m2", "creature/30thwyvernmountclassic/*.m2"]},
+    {"id": "horse", "legacyPatterns": ["creature/ridinghorse/*.m2", "creature/warhorse/*.m2"], "retailPatterns": ["creature/horse2*/*.m2", "creature/horse3*/*.m2"]},
+    {"id": "wolf", "legacyPatterns": ["creature/direwolf/*.m2"], "retailPatterns": ["creature/wolf2mount*/*.m2", "creature/wolfmount*/*.m2", "creature/direwolf2*/*.m2"]},
+    {"id": "ram", "legacyPatterns": ["creature/ram/*.m2"], "retailPatterns": ["creature/ram2*/*.m2", "creature/rammount*/*.m2"]},
+    {"id": "raptor", "legacyPatterns": ["creature/ridingraptor/*.m2"], "retailPatterns": ["creature/raptor2mount*/*.m2", "creature/raptormount*/*.m2"]},
+    {"id": "talbuk", "legacyPatterns": ["creature/ridingtalbuk/*.m2"], "retailPatterns": ["creature/talbuk*mount*/*.m2"]}
+  ]
+}

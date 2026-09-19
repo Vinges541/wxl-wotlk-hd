@@ -1,0 +1,11 @@
+include AGENTS.md CONTRIBUTING.md dependencies.lock.json
+recursive-include docs *.md
+recursive-include catalog *.json
+recursive-include tests *.py
+recursive-include tools *.py *.cjs
+recursive-include runtime *.c
+prune _local
+prune assets
+prune build
+prune cache
+prune vendor

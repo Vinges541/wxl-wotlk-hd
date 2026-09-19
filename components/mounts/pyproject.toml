@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wxl-modern-mounts"
+version = "0.2.0"
+description = "Prepare and verify pinned Retail mount and druid models for WotLK/WarcraftXL"
+readme = "README.md"
+requires-python = ">=3.12"
+license = "GPL-3.0-or-later"
+license-files = ["LICENSE", "THIRD-PARTY-NOTICES.md"]
+dependencies = ["wxl-modern-races==0.1.0a1"]
+
+[project.optional-dependencies]
+prepare = ["Pillow==12.3.0", "unicorn==2.1.4"]
+
+[project.urls]
+Repository = "https://github.com/Vinges541/wxl-modern-mounts"
+Issues = "https://github.com/Vinges541/wxl-modern-mounts/issues"
+Documentation = "https://github.com/Vinges541/wxl-modern-mounts/blob/master/docs/BUILD.md"
+
+[project.scripts]
+wxl-mounts = "wxl_mounts.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

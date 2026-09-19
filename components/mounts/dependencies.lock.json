@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Discovery donor and intended runtime baseline; not mount compatibility evidence",
+  "client": {"version": "3.3.5a", "build": 12340},
+  "retail": {
+    "product": "wow",
+    "version": "12.1.0.69587",
+    "BuildConfig": "c9fa1a64b0170829cc5c5c98c71025c3",
+    "availabilityGuaranteed": false
+  },
+  "exporter": {"repository": "https://github.com/Kruithne/wow.export", "version": "0.2.19"},
+  "stormlib": {"repository": "https://github.com/ladislav-zezula/StormLib", "version": "9.30"},
+  "runtimeBaseline": {
+    "warcraftXLCommit": "3990e09b5f80e77351d605dcd48d76b68ab2c2bf",
+    "modernM2Commit": "7845be16924a1ec8644b957f26726a73d4a8556e",
+    "mountGameplayValidated": false
+  }
+}

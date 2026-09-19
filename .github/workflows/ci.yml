@@ -1,0 +1,26 @@
+name: Source checks
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  test:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-14]
+        python: ['3.12', '3.14']
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - run: python -m pip install '.[prepare]' build
+      - run: python tools/test.py
+      - run: python tools/check_source.py
+      - run: python -m build
+      - name: Installed wheel imports
+        run: |
+          python -m pip install --force-reinstall --no-deps dist/*.whl
+          cd /tmp
+          python -c 'import wxl_races.druids, wxl_races.tauren_scale, wxl_mounts.planning, wxl_equipment'
