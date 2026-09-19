@@ -1,7 +1,7 @@
 # Attribution and excluded assets
 
 - `src/wxl_equipment/assets.py` adapts the StormLib ctypes reader pattern from
-  [wxl-modern-races](https://github.com/Vinges541/wxl-modern-races), source profile
+  [wxl-modern-races](https://github.com/Vinges541/wxl-wotlk-hd/tree/main/components/races), source profile
   `f8f22e7`, GPL-3.0-or-later. Modified for explicit archive inputs, provenance,
   cached handles and bounded decoding.
 - The optional PyTorch SRVGG architecture follows

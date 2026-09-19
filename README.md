@@ -56,7 +56,7 @@ preparation steps and guarded installers; these are not a bundled game download.
 
 Synthetic tests, exact-build patch verification and archive checks do not establish
 in-game rendering. This migration has not been gameplay-tested in a legacy client.
-Original repositories remain available; [source revisions](docs/ORIGINS.md).
+Standalone repositories are retired; [source provenance](docs/ORIGINS.md).
 
 ## License
 

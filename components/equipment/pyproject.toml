@@ -11,8 +11,8 @@ dependencies = ["Pillow==12.3.0", "numpy==2.5.3"]
 license = "GPL-3.0-or-later"
 license-files = ["LICENSE", "THIRD-PARTY-NOTICES.md", "models/Real-ESRGAN-LICENSE", "models/StormLib-LICENSE"]
 [project.urls]
-Repository = "https://github.com/Vinges541/wxl-equipment-textures"
-Issues = "https://github.com/Vinges541/wxl-equipment-textures/issues"
+Repository = "https://github.com/Vinges541/wxl-wotlk-hd"
+Issues = "https://github.com/Vinges541/wxl-wotlk-hd/issues"
 [project.optional-dependencies]
 mlx = ["mlx==0.32.2"]
 parity = ["torch==2.14.0"]

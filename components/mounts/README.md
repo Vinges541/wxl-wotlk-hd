@@ -44,5 +44,5 @@ See [compatibility](docs/COMPATIBILITY.md), [sources](docs/SOURCES.md) and
 [third-party notices](THIRD-PARTY-NOTICES.md). Game assets are not included or
 licensed by this project. Not affiliated with Blizzard.
 
-Related projects: [modern races](https://github.com/Vinges541/wxl-modern-races) and
-[equipment textures](https://github.com/Vinges541/wxl-equipment-textures).
+Related projects: [modern races](https://github.com/Vinges541/wxl-wotlk-hd/tree/main/components/races) and
+[equipment textures](https://github.com/Vinges541/wxl-wotlk-hd/tree/main/components/equipment).

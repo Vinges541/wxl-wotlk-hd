@@ -21,6 +21,6 @@ mtld3d 0.7.0. Oversized shadows and shader-cache texture corruption require
 the [client settings workarounds](../CLIENT-SETTINGS.md).
 
 Offline asset checks and animation-loader emulation do not replace gameplay
-testing. The [source CI](https://github.com/Vinges541/wxl-modern-races/actions)
+testing. The [source CI](https://github.com/Vinges541/wxl-wotlk-hd/actions)
 covers macOS/Linux and Python 3.10, 3.12 and 3.14 without game data.
 See [CONTRIBUTING.md](../CONTRIBUTING.md) for tests and private fixtures.
